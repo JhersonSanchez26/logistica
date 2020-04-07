@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781368865870",
+    "firebase_url": "https://appsena01-1c5be.firebaseio.com",
+    "project_id": "appsena01-1c5be",
+    "storage_bucket": "appsena01-1c5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781368865870:android:40b1236e89815af30f3f1f",
+        "android_client_info": {
+          "package_name": "com.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781368865870-95e93h5taf7a0rps5dtbph4o65umtrmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2sbvfdmTykCbh02fNk5ickF-Gnqtlmvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781368865870-95e93h5taf7a0rps5dtbph4o65umtrmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
